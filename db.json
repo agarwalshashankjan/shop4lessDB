@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productId": 1,
+      "productName": "headphone - 1",
+      "categoryId": 2,
+      "description": "Product description here",
+      "price": 100,
+      "isAvailable": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_name": "Seller -1",
+      "warrenty": 2,
+      "productImg": "http://localhost:4200/assets/images/headPhone-1.png"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "productName": "headphone - 2",
+      "categoryId": 2,
+      "description": "Product description here",
+      "price": 110,
+      "isAvailable": true,
+      "rating": 5,
+      "reviews": 120,
+      "vendor_name": "Seller -1",
+      "warrenty": 5,
+      "productImg": "http://localhost:4200/assets/images/headPhone-2.png"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "productName": "phone - 1",
+      "categoryId": 1,
+      "description": "Product description here",
+      "price": 1000,
+      "isAvailable": true,
+      "rating": 3,
+      "reviews": 120,
+      "vendor_name": "Seller -2",
+      "warrenty": 1,
+      "productImg": "http://localhost:4200/assets/images/phone-1.png"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "productName": "Earphone - 1",
+      "categoryId": 3,
+      "description": "Product description here",
+      "price": 60,
+      "isAvailable": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_name": "Seller -3",
+      "warrenty": 1,
+      "productImg": "http://localhost:4200/assets/images/earphone-1.png"
+    },
+    {
+      "productId": 6,
+      "categoryId": 3,
+      "description": "Best sounds of reality here",
+      "price": "2300",
+      "productName": "Earphone Boss",
+      "rating": "4",
+      "reviews": "true",
+      "warrenty": 5,
+      "productImg": "",
+      "id": 6
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "categoryId": 2,
+      "description": "Best in all",
+      "price": "100",
+      "productName": "Boat Headphone",
+      "rating": "2",
+      "reviews": "false",
+      "warrenty": 1,
+      "productImg": ""
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "categoryId": 1,
+      "description": "Capture true Self with $1MP camera",
+      "price": "12000",
+      "productName": "Nokia Lumia 41MP camera Phone",
+      "rating": "5",
+      "reviews": "true",
+      "warrenty": 1,
+      "productImg": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Phones"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "HeadPhones"
+    },
+    {
+      "id": 3,
+      "categoryId": 3,
+      "name": "Earphones"
+    }
+  ],
+  "profile": {
+    "productName": "typicode"
+  }
+}
