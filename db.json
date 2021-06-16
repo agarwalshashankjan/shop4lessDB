@@ -12,7 +12,7 @@
       "reviews": 120,
       "vendor_name": "Seller -1",
       "warrenty": 2,
-      "productImg": "http://localhost:4200/assets/images/headPhone-1.png"
+      "productImg": "https://shop4lessbyshaan.000webhostapp.com/shop4less/assets/images/headPhone-1.png"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "reviews": 120,
       "vendor_name": "Seller -1",
       "warrenty": 5,
-      "productImg": "http://localhost:4200/assets/images/headPhone-2.png"
+      "productImg": "https://shop4lessbyshaan.000webhostapp.com/shop4less/assets/images/headPhone-2.png"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "reviews": 120,
       "vendor_name": "Seller -2",
       "warrenty": 1,
-      "productImg": "http://localhost:4200/assets/images/phone-1.png"
+      "productImg": "https://shop4lessbyshaan.000webhostapp.com/shop4less/assets/images/phone-1.png"
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@
       "reviews": 120,
       "vendor_name": "Seller -3",
       "warrenty": 1,
-      "productImg": "http://localhost:4200/assets/images/earphone-1.png"
+      "productImg": "https://shop4lessbyshaan.000webhostapp.com/shop4less/assets/images/earphone-1.png"
     },
     {
       "productId": 6,
